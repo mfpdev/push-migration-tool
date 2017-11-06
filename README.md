@@ -5,7 +5,7 @@ The IBM MobileFirst Platform Foundation Migration Tool is for the migration of P
 Command to run
 
 ``` 
-java -jar PushDataMigrationTool.jar <path to properties file>
+java -jar mfp-push-data-migration-0.0.1-SNAPSHOT.jar <path to properties file>
 ```
 * Provide migration.properties file path if jar and properties file located at different locations.
 
