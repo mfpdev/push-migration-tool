@@ -14,7 +14,6 @@ java -jar PushDataMigrationTool.jar <path to properties file>
 See the IBM MobileFirst Platform Foundation section of IBM Knowledge Center
 
 [http://ibm.biz/knowctr#SSHS8R_8.0.0/wl_welcome.html]
-
 (http://ibm.biz/knowctr#SSHS8R_8.0.0/wl_welcome.html) 
 
 MobileFirst Platform Foundation Push Data Migration Tool 
