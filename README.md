@@ -17,5 +17,5 @@ http://ibm.biz/knowctr#SSHS8R_8.0.0/wl_welcome.html
 
 MobileFirst Platform Foundation Push Data Migration Tool 
 
-https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/upgrading/migrating-push-notifications/#procedure
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/upgrading/migrating-push-notifications/#migration-tool
 
