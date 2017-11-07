@@ -8,6 +8,7 @@ Command to run
 java -jar mfp-push-data-migration-0.0.1-SNAPSHOT.jar <path to properties file>
 ```
 * Provide migration.properties file path if jar and properties file located at different locations.
+* Keep lib folder containing required libraries at the same location as tool .jar file. 
 
 Documentation
 
