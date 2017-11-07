@@ -1,15 +1,15 @@
 IBM MobileFirst Platform Foundation Migration Tool
 
 The IBM MobileFirst Platform Foundation Migration Tool is for the migration of Push data from MFP 7.1 to the MFP 8.0.
-Unzip the mfp-push-data-tool.zip which contains tool .jar file.
+Unzip the mfp-push-data-tool.zip to get the migration tool.
 
 Command to run
 
 ``` 
-java -jar mfp-push-data-migration-0.0.1-SNAPSHOT.jar <path to properties file>
+java -jar mfp-push-data-migration-0.0.1.jar <path to properties file>
 ```
-* Provide migration.properties file path if jar and properties file located at different locations.
-* Keep lib folder containing required libraries at the same location as tool .jar file. 
+* Keep lib folder containing required libraries at the same location as the .jar file. 
+* Provide migration.properties file path if .jar and properties files are at different locations.
 
 Documentation
 
