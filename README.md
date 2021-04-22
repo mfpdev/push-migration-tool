@@ -8,7 +8,7 @@ Command to run
 ``` 
 java -jar mfp-push-data-migration.jar <path to properties file>
 ```
-* Keep lib folder containing required libraries at the same location as the .jar file. 
+* Keep dependencies folder containing required libraries at the same location as the .jar file. 
 * Provide migration.properties file path if .jar and properties files are at different locations.
 
 Documentation
